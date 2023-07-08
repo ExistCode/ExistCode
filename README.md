@@ -12,7 +12,7 @@ If you have any opportunities or recommendations that you think might be a good 
 
 ## Connect with me:
 - LinkedIn: www.linkedin.com/in/hansandreanto
-- Instagram: (https://www.instagram.com/hansandreanto_
+- Instagram: (https://www.instagram.com/hansandreanto_/
 - Discord: existcode
 
 Feel free to reach out and connect with me on these platforms! Let's connect and share our passion for computer science and technology.
