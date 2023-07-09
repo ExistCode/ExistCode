@@ -4,7 +4,7 @@ I'm a passionate computer science student dedicated to unlocking the full potent
 
 🎓 Academic Pursuits: I am currently pursuing my studies in computer science, where I delve into various subjects related to programming, algorithms, and software engineering. 
 
-🏆 Hackathon Experience: I actively participate in hackathons to gain practical experience and enhance my skills. Notably, I achieved the position of runner-up in the nationwide hackathon, KItahack2023, showcasing my ability to work effectively in a team and deliver innovative solutions. Additionally, my participation in Imaginehack earned me the best visual award, highlighting my attention to detail and creativity.
+🏆 Hackathon Experience: I actively participate in hackathons to gain practical experience and enhance my skills. Notably, I achieved the position of runner-up in few hackathon I joined, showcasing my ability to work effectively in a team and deliver innovative solutions. 
 
 🔍 Seeking Collaborative Opportunities: I am eager to gain practical experience in the field and currently looking for volunteer and part-time opportunities. I'm excited to collaborate with other professionals and work on meaningful projects that align with my interests and goals.
 
@@ -14,7 +14,9 @@ If you have any opportunities or recommendations that you think might be a good 
 - LinkedIn: www.linkedin.com/in/hansandreanto
 - Instagram: https://www.instagram.com/hansandreanto_/
 - Discord: existcode
+- Email: andreantohanss@gmail.com
 
 Feel free to reach out and connect with me on these platforms! Let's connect and share our passion for computer science and technology.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExistCode)](https://github.com/anuraghazra/github-readme-stats)
