@@ -19,5 +19,5 @@ If you have any opportunities or recommendations that you think might be a good 
 Feel free to reach out and connect with me on these platforms! Let's connect and share our passion for computer science and technology.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexxyrexxy&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExistCode&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)
