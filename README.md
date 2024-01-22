@@ -1,12 +1,6 @@
 # Hey there! 👋
 
-I'm a passionate computer science student dedicated to unlocking the full potential of cutting-edge technical stacks in the field of computing, with a specific focus on website development and machine learning. I have a strong enthusiasm for continuous learning and constantly strive to expand my knowledge and expertise in these transformative technologies to create dynamic and captivating websites and applications.
-
-🎓 Academic Pursuits: I am currently pursuing my studies in computer science, where I delve into various subjects related to programming, algorithms, and software engineering. 
-
-🏆 Hackathon Experience: I actively participate in hackathons to gain practical experience and enhance my skills. Notably, I achieved the position of runner-up in few hackathon I joined, showcasing my ability to work effectively in a team and deliver innovative solutions. 
-
-🔍 Seeking Collaborative Opportunities: I am eager to gain practical experience in the field and currently looking for volunteer and part-time opportunities. I'm excited to collaborate with other professionals and work on meaningful projects that align with my interests and goals.
+I'm Hans and I like to code
 
 If you have any opportunities or recommendations that you think might be a good fit, please don't hesitate to reach out! Let's connect and create something remarkable together. 🌟
 
