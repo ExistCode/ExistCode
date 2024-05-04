@@ -15,4 +15,4 @@ Feel free to reach out and connect with me on these platforms! Let's connect and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExistCode&layout=donut-vertical&theme=radical&size_weight=0.5&count_weight=0.5 )](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)
-![Cloud Profile](https://www.cloudskillsboost.google/public_profiles/ab83320a-08b9-4f47-8d4f-d155d1c9a754)
+[Cloud Profile](https://www.cloudskillsboost.google/public_profiles/ab83320a-08b9-4f47-8d4f-d155d1c9a754)
