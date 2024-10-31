@@ -1,19 +1,19 @@
-# Hey there! 👋
+# 👋 Hi, I'm Hans!
 
-I'm Hans and I like to code
+I'm passionate about creating innovative solutions and constantly pushing the boundaries in the tech world. With a background in software development, data science, and a knack for optimizing systems, I'm excited to connect, learn, and make a meaningful impact through collaboration.
 
-If you have any opportunities or recommendations that you think might be a good fit, please don't hesitate to reach out! Let's connect and create something remarkable together. 🌟
+### 🚀 What I Do
+- **Software Development**: Experienced in both frontend and backend development, always keen on building efficient, impactful applications.
+- **Data Science & AI**: Love exploring data-driven insights, especially with **Deep Learning** and **Explainable AI**.
+- **Tech Projects & Innovations**: From building decentralized apps to optimizing firmware with large language models, I'm all about finding creative solutions to complex problems.
 
-## Connect with me:
-- LinkedIn: www.linkedin.com/in/hansandreanto
-- Instagram: https://www.instagram.com/hansandreanto_/
-- Discord: existcode
-- Email: andreantohanss@gmail.com
-- Cloud Profile: [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/ab83320a-08b9-4f47-8d4f-d155d1c9a754)
+### 🌟 Let’s Build Something Amazing
+If you’re looking to collaborate on impactful projects or discuss emerging tech trends, feel free to reach out. I’m always open to connecting with fellow tech enthusiasts, innovators, and leaders.
 
-Feel free to reach out and connect with me on these platforms! Let's connect and share our passion for computer science and technology.
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hansandreanto) | [Instagram](https://www.instagram.com/hansandreanto_/)
+- **Discord**: existcode | **Email**: andreantohanss@gmail.com
 
+### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExistCode&layout=donut-vertical&theme=radical&size_weight=0.5&count_weight=0.5 )](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExistCode&show_icons=true&theme=radical&hide=stars,issues)
